@@ -1,1 +1,1 @@
-# Prescriptive-Contagion-Analysis
+# Prescriptive-Contagion-Analytics
