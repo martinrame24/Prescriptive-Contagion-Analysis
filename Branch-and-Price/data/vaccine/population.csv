@@ -1,0 +1,1837 @@
+state,sex,min_age,max_age,population
+Alabama,M,0,4.0,149264
+Alaska,M,0,4.0,27082
+Arizona,M,0,4.0,222960
+Arkansas,M,0,4.0,97731
+California,M,0,4.0,1249515
+Colorado,M,0,4.0,171875
+Connecticut,M,0,4.0,93687
+Delaware,M,0,4.0,27658
+District of Columbia,M,0,4.0,23103
+Florida,M,0,4.0,584881
+Georgia,M,0,4.0,335343
+Hawaii,M,0,4.0,45005
+Idaho,M,0,4.0,59400
+Illinois,M,0,4.0,389047
+Indiana,M,0,4.0,215216
+Iowa,M,0,4.0,101367
+Kansas,M,0,4.0,96625
+Kentucky,M,0,4.0,141008
+Louisiana,M,0,4.0,156329
+Maine,M,0,4.0,33189
+Maryland,M,0,4.0,186178
+Massachusetts,M,0,4.0,184129
+Michigan,M,0,4.0,292555
+Minnesota,M,0,4.0,181831
+Mississippi,M,0,4.0,94226
+Missouri,M,0,4.0,190918
+Montana,M,0,4.0,31959
+Nebraska,M,0,4.0,68317
+Nevada,M,0,4.0,95034
+New Hampshire,M,0,4.0,32922
+New Jersey,M,0,4.0,264775
+New Mexico,M,0,4.0,63559
+New York,M,0,4.0,583539
+North Carolina,M,0,4.0,311910
+North Dakota,M,0,4.0,27966
+Ohio,M,0,4.0,355502
+Oklahoma,M,0,4.0,133379
+Oregon,M,0,4.0,119974
+Pennsylvania,M,0,4.0,359863
+Rhode Island,M,0,4.0,27959
+South Carolina,M,0,4.0,149244
+South Dakota,M,0,4.0,31827
+Tennessee,M,0,4.0,207460
+Texas,M,0,4.0,1034056
+Utah,M,0,4.0,129788
+Vermont,M,0,4.0,15276
+Virginia,M,0,4.0,261793
+Washington,M,0,4.0,237614
+West Virginia,M,0,4.0,48695
+Wisconsin,M,0,4.0,171036
+Wyoming,M,0,4.0,18633
+Alabama,F,0,4.0,143939
+Alaska,F,0,4.0,26033
+Arizona,F,0,4.0,212976
+Arkansas,F,0,4.0,92612
+California,F,0,4.0,1191785
+Colorado,F,0,4.0,164979
+Connecticut,F,0,4.0,89447
+Delaware,F,0,4.0,27153
+District of Columbia,F,0,4.0,22514
+Florida,F,0,4.0,558302
+Georgia,F,0,4.0,322071
+Hawaii,F,0,4.0,42699
+Idaho,F,0,4.0,56939
+Illinois,F,0,4.0,371572
+Indiana,F,0,4.0,203328
+Iowa,F,0,4.0,96851
+Kansas,F,0,4.0,92710
+Kentucky,F,0,4.0,134404
+Louisiana,F,0,4.0,150690
+Maine,F,0,4.0,31093
+Maryland,F,0,4.0,178326
+Massachusetts,F,0,4.0,176032
+Michigan,F,0,4.0,279608
+Minnesota,F,0,4.0,173460
+Mississippi,F,0,4.0,91251
+Missouri,F,0,4.0,181795
+Montana,F,0,4.0,30577
+Nebraska,F,0,4.0,64651
+Nevada,F,0,4.0,90961
+New Hampshire,F,0,4.0,31098
+New Jersey,F,0,4.0,253853
+New Mexico,F,0,4.0,60687
+New York,F,0,4.0,556903
+North Carolina,F,0,4.0,298218
+North Dakota,F,0,4.0,26729
+Ohio,F,0,4.0,339287
+Oklahoma,F,0,4.0,127050
+Oregon,F,0,4.0,114240
+Pennsylvania,F,0,4.0,343134
+Rhode Island,F,0,4.0,26454
+South Carolina,F,0,4.0,143147
+South Dakota,F,0,4.0,30305
+Tennessee,F,0,4.0,199114
+Texas,F,0,4.0,990070
+Utah,F,0,4.0,123216
+Vermont,F,0,4.0,14405
+Virginia,F,0,4.0,249131
+Washington,F,0,4.0,225087
+West Virginia,F,0,4.0,46562
+Wisconsin,F,0,4.0,163346
+Wyoming,F,0,4.0,17279
+Alabama,M,5,9.0,152067
+Alaska,M,5,9.0,26798
+Arizona,M,5,9.0,230196
+Arkansas,M,5,9.0,98924
+California,M,5,9.0,1271644
+Colorado,M,5,9.0,178246
+Connecticut,M,5,9.0,99943
+Delaware,M,5,9.0,28488
+District of Columbia,M,5,9.0,19126
+Florida,M,5,9.0,591075
+Georgia,M,5,9.0,349371
+Hawaii,M,5,9.0,44581
+Idaho,M,5,9.0,62412
+Illinois,M,5,9.0,397553
+Indiana,M,5,9.0,219821
+Iowa,M,5,9.0,103032
+Kansas,M,5,9.0,101092
+Kentucky,M,5,9.0,142230
+Louisiana,M,5,9.0,153644
+Maine,M,5,9.0,34578
+Maryland,M,5,9.0,188926
+Massachusetts,M,5,9.0,189121
+Michigan,M,5,9.0,300339
+Minnesota,M,5,9.0,184406
+Mississippi,M,5,9.0,98086
+Missouri,M,5,9.0,193618
+Montana,M,5,9.0,32675
+Nebraska,M,5,9.0,67727
+Nevada,M,5,9.0,98001
+New Hampshire,M,5,9.0,35537
+New Jersey,M,5,9.0,272563
+New Mexico,M,5,9.0,68731
+New York,M,5,9.0,572512
+North Carolina,M,5,9.0,319840
+North Dakota,M,5,9.0,25625
+Ohio,M,5,9.0,362497
+Oklahoma,M,5,9.0,136879
+Oregon,M,5,9.0,124248
+Pennsylvania,M,5,9.0,370798
+Rhode Island,M,5,9.0,28058
+South Carolina,M,5,9.0,155180
+South Dakota,M,5,9.0,31224
+Tennessee,M,5,9.0,210395
+Texas,M,5,9.0,1043283
+Utah,M,5,9.0,132742
+Vermont,M,5,9.0,16215
+Virginia,M,5,9.0,263477
+Washington,M,5,9.0,238374
+West Virginia,M,5,9.0,51768
+Wisconsin,M,5,9.0,178917
+Wyoming,M,5,9.0,19407
+Alabama,F,5,9.0,145833
+Alaska,F,5,9.0,25258
+Arizona,F,5,9.0,221530
+Arkansas,F,5,9.0,94360
+California,F,5,9.0,1217258
+Colorado,F,5,9.0,169707
+Connecticut,F,5,9.0,96068
+Delaware,F,5,9.0,27759
+District of Columbia,F,5,9.0,18496
+Florida,F,5,9.0,566512
+Georgia,F,5,9.0,336533
+Hawaii,F,5,9.0,42288
+Idaho,F,5,9.0,60553
+Illinois,F,5,9.0,380549
+Indiana,F,5,9.0,210285
+Iowa,F,5,9.0,98083
+Kansas,F,5,9.0,96529
+Kentucky,F,5,9.0,134496
+Louisiana,F,5,9.0,147923
+Maine,F,5,9.0,33018
+Maryland,F,5,9.0,181518
+Massachusetts,F,5,9.0,180889
+Michigan,F,5,9.0,286309
+Minnesota,F,5,9.0,176028
+Mississippi,F,5,9.0,94881
+Missouri,F,5,9.0,184329
+Montana,F,5,9.0,30851
+Nebraska,F,5,9.0,64613
+Nevada,F,5,9.0,93606
+New Hampshire,F,5,9.0,33823
+New Jersey,F,5,9.0,260999
+New Mexico,F,5,9.0,66091
+New York,F,5,9.0,546814
+North Carolina,F,5,9.0,308254
+North Dakota,F,5,9.0,24581
+Ohio,F,5,9.0,345651
+Oklahoma,F,5,9.0,130918
+Oregon,F,5,9.0,118327
+Pennsylvania,F,5,9.0,354816
+Rhode Island,F,5,9.0,26782
+South Carolina,F,5,9.0,151075
+South Dakota,F,5,9.0,29538
+Tennessee,F,5,9.0,201945
+Texas,F,5,9.0,1004464
+Utah,F,5,9.0,126336
+Vermont,F,5,9.0,15057
+Virginia,F,5,9.0,250980
+Washington,F,5,9.0,228542
+West Virginia,F,5,9.0,49275
+Wisconsin,F,5,9.0,170882
+Wyoming,F,5,9.0,18440
+Alabama,M,10,14.0,158277
+Alaska,M,10,14.0,25640
+Arizona,M,10,14.0,242893
+Arkansas,M,10,14.0,102639
+California,M,10,14.0,1302096
+Colorado,M,10,14.0,186758
+Connecticut,M,10,14.0,110797
+Delaware,M,10,14.0,29050
+District of Columbia,M,10,14.0,14294
+Florida,M,10,14.0,614857
+Georgia,M,10,14.0,370414
+Hawaii,M,10,14.0,42015
+Idaho,M,10,14.0,67045
+Illinois,M,10,14.0,417638
+Indiana,M,10,14.0,229513
+Iowa,M,10,14.0,106620
+Kansas,M,10,14.0,102461
+Kentucky,M,10,14.0,145800
+Louisiana,M,10,14.0,156528
+Maine,M,10,14.0,37533
+Maryland,M,10,14.0,193072
+Massachusetts,M,10,14.0,198363
+Michigan,M,10,14.0,316658
+Minnesota,M,10,14.0,188539
+Mississippi,M,10,14.0,105853
+Missouri,M,10,14.0,199951
+Montana,M,10,14.0,33564
+Nebraska,M,10,14.0,68401
+Nevada,M,10,14.0,100465
+New Hampshire,M,10,14.0,38839
+New Jersey,M,10,14.0,284652
+New Mexico,M,10,14.0,71253
+New York,M,10,14.0,571154
+North Carolina,M,10,14.0,338549
+North Dakota,M,10,14.0,24421
+Ohio,M,10,14.0,376608
+Oklahoma,M,10,14.0,137799
+Oregon,M,10,14.0,127567
+Pennsylvania,M,10,14.0,386299
+Rhode Island,M,10,14.0,30007
+South Carolina,M,10,14.0,162322
+South Dakota,M,10,14.0,31126
+Tennessee,M,10,14.0,219299
+Texas,M,10,14.0,1067140
+Utah,M,10,14.0,137356
+Vermont,M,10,14.0,17357
+Virginia,M,10,14.0,269658
+Washington,M,10,14.0,236947
+West Virginia,M,10,14.0,53719
+Wisconsin,M,10,14.0,188956
+Wyoming,M,10,14.0,20078
+Alabama,F,10,14.0,152218
+Alaska,F,10,14.0,24119
+Arizona,F,10,14.0,233528
+Arkansas,F,10,14.0,98147
+California,F,10,14.0,1245877
+Colorado,F,10,14.0,178620
+Connecticut,F,10,14.0,107100
+Delaware,F,10,14.0,28604
+District of Columbia,F,10,14.0,14279
+Florida,F,10,14.0,591390
+Georgia,F,10,14.0,357344
+Hawaii,F,10,14.0,39939
+Idaho,F,10,14.0,63991
+Illinois,F,10,14.0,401510
+Indiana,F,10,14.0,219077
+Iowa,F,10,14.0,101944
+Kansas,F,10,14.0,97985
+Kentucky,F,10,14.0,139988
+Louisiana,F,10,14.0,150830
+Maine,F,10,14.0,35702
+Maryland,F,10,14.0,185434
+Massachusetts,F,10,14.0,190779
+Michigan,F,10,14.0,302764
+Minnesota,F,10,14.0,182113
+Mississippi,F,10,14.0,101074
+Missouri,F,10,14.0,191989
+Montana,F,10,14.0,31717
+Nebraska,F,10,14.0,65081
+Nevada,F,10,14.0,96557
+New Hampshire,F,10,14.0,37275
+New Jersey,F,10,14.0,273962
+New Mexico,F,10,14.0,68688
+New York,F,10,14.0,546716
+North Carolina,F,10,14.0,325659
+North Dakota,F,10,14.0,23227
+Ohio,F,10,14.0,361179
+Oklahoma,F,10,14.0,132311
+Oregon,F,10,14.0,121647
+Pennsylvania,F,10,14.0,368934
+Rhode Island,F,10,14.0,28814
+South Carolina,F,10,14.0,157232
+South Dakota,F,10,14.0,29756
+Tennessee,F,10,14.0,210815
+Texas,F,10,14.0,1024279
+Utah,F,10,14.0,129443
+Vermont,F,10,14.0,16404
+Virginia,F,10,14.0,258704
+Washington,F,10,14.0,225855
+West Virginia,F,10,14.0,50669
+Wisconsin,F,10,14.0,180392
+Wyoming,F,10,14.0,19026
+Alabama,M,15,19.0,159983
+Alaska,M,15,19.0,24307
+Arizona,M,15,19.0,242159
+Arkansas,M,15,19.0,101355
+California,M,15,19.0,1299512
+Colorado,M,15,19.0,187092
+Connecticut,M,15,19.0,123527
+Delaware,M,15,19.0,30580
+District of Columbia,M,15,19.0,17535
+Florida,M,15,19.0,617476
+Georgia,M,15,19.0,370712
+Hawaii,M,15,19.0,39834
+Idaho,M,15,19.0,63608
+Illinois,M,15,19.0,423161
+Indiana,M,15,19.0,233424
+Iowa,M,15,19.0,109472
+Kansas,M,15,19.0,103483
+Kentucky,M,15,19.0,147378
+Louisiana,M,15,19.0,150906
+Maine,M,15,19.0,39783
+Maryland,M,15,19.0,194403
+Massachusetts,M,15,19.0,228766
+Michigan,M,15,19.0,333720
+Minnesota,M,15,19.0,182657
+Mississippi,M,15,19.0,105043
+Missouri,M,15,19.0,200923
+Montana,M,15,19.0,33236
+Nebraska,M,15,19.0,67230
+Nevada,M,15,19.0,93407
+New Hampshire,M,15,19.0,43267
+New Jersey,M,15,19.0,285910
+New Mexico,M,15,19.0,70927
+New York,M,15,19.0,603879
+North Carolina,M,15,19.0,347988
+North Dakota,M,15,19.0,24564
+Ohio,M,15,19.0,389941
+Oklahoma,M,15,19.0,135937
+Oregon,M,15,19.0,126691
+Pennsylvania,M,15,19.0,413162
+Rhode Island,M,15,19.0,35539
+South Carolina,M,15,19.0,165420
+South Dakota,M,15,19.0,29967
+Tennessee,M,15,19.0,217569
+Texas,M,15,19.0,1038995
+Utah,M,15,19.0,126958
+Vermont,M,15,19.0,21609
+Virginia,M,15,19.0,275429
+Washington,M,15,19.0,228901
+West Virginia,M,15,19.0,55419
+Wisconsin,M,15,19.0,193230
+Wyoming,M,15,19.0,18934
+Alabama,F,15,19.0,155697
+Alaska,F,15,19.0,21956
+Arizona,F,15,19.0,231635
+Arkansas,F,15,19.0,96352
+California,F,15,19.0,1245863
+Colorado,F,15,19.0,176272
+Connecticut,F,15,19.0,118377
+Delaware,F,15,19.0,29783
+District of Columbia,F,15,19.0,19365
+Florida,F,15,19.0,588946
+Georgia,F,15,19.0,357658
+Hawaii,F,15,19.0,37345
+Idaho,F,15,19.0,60898
+Illinois,F,15,19.0,405044
+Indiana,F,15,19.0,222229
+Iowa,F,15,19.0,104650
+Kansas,F,15,19.0,96791
+Kentucky,F,15,19.0,139727
+Louisiana,F,15,19.0,145107
+Maine,F,15,19.0,37608
+Maryland,F,15,19.0,187101
+Massachusetts,F,15,19.0,226640
+Michigan,F,15,19.0,320027
+Minnesota,F,15,19.0,175152
+Mississippi,F,15,19.0,100890
+Missouri,F,15,19.0,190464
+Montana,F,15,19.0,30787
+Nebraska,F,15,19.0,64349
+Nevada,F,15,19.0,87691
+New Hampshire,F,15,19.0,41864
+New Jersey,F,15,19.0,271905
+New Mexico,F,15,19.0,68125
+New York,F,15,19.0,584413
+North Carolina,F,15,19.0,336190
+North Dakota,F,15,19.0,22718
+Ohio,F,15,19.0,371956
+Oklahoma,F,15,19.0,128203
+Oregon,F,15,19.0,120144
+Pennsylvania,F,15,19.0,397138
+Rhode Island,F,15,19.0,35887
+South Carolina,F,15,19.0,158474
+South Dakota,F,15,19.0,27707
+Tennessee,F,15,19.0,207756
+Texas,F,15,19.0,993348
+Utah,F,15,19.0,122027
+Vermont,F,15,19.0,20676
+Virginia,F,15,19.0,266855
+Washington,F,15,19.0,218148
+West Virginia,F,15,19.0,51808
+Wisconsin,F,15,19.0,185188
+Wyoming,F,15,19.0,17379
+Alabama,M,20,24.0,163656
+Alaska,M,20,24.0,30355
+Arizona,M,20,24.0,256152
+Arkansas,M,20,24.0,102670
+California,M,20,24.0,1395963
+Colorado,M,20,24.0,198446
+Connecticut,M,20,24.0,125168
+Delaware,M,20,24.0,29692
+District of Columbia,M,20,24.0,23793
+Florida,M,20,24.0,649654
+Georgia,M,20,24.0,364179
+Hawaii,M,20,24.0,50160
+Idaho,M,20,24.0,60225
+Illinois,M,20,24.0,430577
+Indiana,M,20,24.0,241365
+Iowa,M,20,24.0,117694
+Kansas,M,20,24.0,111211
+Kentucky,M,20,24.0,156446
+Louisiana,M,20,24.0,157118
+Maine,M,20,24.0,38276
+Maryland,M,20,24.0,191893
+Massachusetts,M,20,24.0,245788
+Michigan,M,20,24.0,354949
+Minnesota,M,20,24.0,182295
+Mississippi,M,20,24.0,104739
+Missouri,M,20,24.0,209039
+Montana,M,20,24.0,38226
+Nebraska,M,20,24.0,70119
+Nevada,M,20,24.0,93201
+New Hampshire,M,20,24.0,45935
+New Jersey,M,20,24.0,279918
+New Mexico,M,20,24.0,73801
+New York,M,20,24.0,651432
+North Carolina,M,20,24.0,361197
+North Dakota,M,20,24.0,33669
+Ohio,M,20,24.0,385682
+Oklahoma,M,20,24.0,142622
+Oregon,M,20,24.0,135675
+Pennsylvania,M,20,24.0,413748
+Rhode Island,M,20,24.0,38616
+South Carolina,M,20,24.0,171381
+South Dakota,M,20,24.0,30977
+Tennessee,M,20,24.0,225334
+Texas,M,20,24.0,1030026
+Utah,M,20,24.0,134051
+Vermont,M,20,24.0,23754
+Virginia,M,20,24.0,300165
+Washington,M,20,24.0,251031
+West Virginia,M,20,24.0,58367
+Wisconsin,M,20,24.0,201013
+Wyoming,M,20,24.0,20104
+Alabama,F,20,24.0,161564
+Alaska,F,20,24.0,22645
+Arizona,F,20,24.0,236024
+Arkansas,F,20,24.0,98968
+California,F,20,24.0,1315837
+Colorado,F,20,24.0,180068
+Connecticut,F,20,24.0,117948
+Delaware,F,20,24.0,28657
+District of Columbia,F,20,24.0,29131
+Florida,F,20,24.0,620169
+Georgia,F,20,24.0,352473
+Hawaii,F,20,24.0,40791
+Idaho,F,20,24.0,54669
+Illinois,F,20,24.0,416925
+Indiana,F,20,24.0,229849
+Iowa,F,20,24.0,110084
+Kansas,F,20,24.0,101809
+Kentucky,F,20,24.0,145084
+Louisiana,F,20,24.0,152190
+Maine,F,20,24.0,36748
+Maryland,F,20,24.0,184657
+Massachusetts,F,20,24.0,248279
+Michigan,F,20,24.0,339678
+Minnesota,F,20,24.0,177770
+Mississippi,F,20,24.0,102022
+Missouri,F,20,24.0,200189
+Montana,F,20,24.0,34287
+Nebraska,F,20,24.0,67061
+Nevada,F,20,24.0,88863
+New Hampshire,F,20,24.0,43747
+New Jersey,F,20,24.0,271112
+New Mexico,F,20,24.0,67746
+New York,F,20,24.0,650906
+North Carolina,F,20,24.0,336674
+North Dakota,F,20,24.0,29910
+Ohio,F,20,24.0,373220
+Oklahoma,F,20,24.0,131068
+Oregon,F,20,24.0,130098
+Pennsylvania,F,20,24.0,401301
+Rhode Island,F,20,24.0,38000
+South Carolina,F,20,24.0,160693
+South Dakota,F,20,24.0,28608
+Tennessee,F,20,24.0,220323
+Texas,F,20,24.0,968517
+Utah,F,20,24.0,126855
+Vermont,F,20,24.0,22439
+Virginia,F,20,24.0,278647
+Washington,F,20,24.0,230232
+West Virginia,F,20,24.0,54727
+Wisconsin,F,20,24.0,194908
+Wyoming,F,20,24.0,17862
+Alabama,M,25,29.0,169352
+Alaska,M,25,29.0,33104
+Arizona,M,25,29.0,269123
+Arkansas,M,25,29.0,103979
+California,M,25,29.0,1615551
+Colorado,M,25,29.0,237618
+Connecticut,M,25,29.0,115760
+Delaware,M,25,29.0,33770
+District of Columbia,M,25,29.0,38651
+Florida,M,25,29.0,732779
+Georgia,M,25,29.0,383982
+Hawaii,M,25,29.0,54937
+Idaho,M,25,29.0,61213
+Illinois,M,25,29.0,458281
+Indiana,M,25,29.0,232362
+Iowa,M,25,29.0,105389
+Kansas,M,25,29.0,101801
+Kentucky,M,25,29.0,158075
+Louisiana,M,25,29.0,172144
+Maine,M,25,29.0,40869
+Maryland,M,25,29.0,210517
+Massachusetts,M,25,29.0,256576
+Michigan,M,25,29.0,355691
+Minnesota,M,25,29.0,193546
+Mississippi,M,25,29.0,104912
+Missouri,M,25,29.0,215712
+Montana,M,25,29.0,36872
+Nebraska,M,25,29.0,66628
+Nevada,M,25,29.0,115550
+New Hampshire,M,25,29.0,44995
+New Jersey,M,25,29.0,298333
+New Mexico,M,25,29.0,75744
+New York,M,25,29.0,744482
+North Carolina,M,25,29.0,366599
+North Dakota,M,25,29.0,33240
+Ohio,M,25,29.0,408087
+Oklahoma,M,25,29.0,142960
+Oregon,M,25,29.0,154497
+Pennsylvania,M,25,29.0,445252
+Rhode Island,M,25,29.0,39169
+South Carolina,M,25,29.0,175861
+South Dakota,M,25,29.0,31012
+Tennessee,M,25,29.0,246254
+Texas,M,25,29.0,1104087
+Utah,M,25,29.0,126977
+Vermont,M,25,29.0,19350
+Virginia,M,25,29.0,307824
+Washington,M,25,29.0,307356
+West Virginia,M,25,29.0,58373
+Wisconsin,M,25,29.0,193420
+Wyoming,M,25,29.0,20222
+Alabama,F,25,29.0,170662
+Alaska,F,25,29.0,28568
+Arizona,F,25,29.0,248857
+Arkansas,F,25,29.0,102518
+California,F,25,29.0,1510265
+Colorado,F,25,29.0,216289
+Connecticut,F,25,29.0,107163
+Delaware,F,25,29.0,33210
+District of Columbia,F,25,29.0,44445
+Florida,F,25,29.0,703698
+Georgia,F,25,29.0,383763
+Hawaii,F,25,29.0,49040
+Idaho,F,25,29.0,57963
+Illinois,F,25,29.0,445499
+Indiana,F,25,29.0,226497
+Iowa,F,25,29.0,98897
+Kansas,F,25,29.0,93234
+Kentucky,F,25,29.0,152251
+Louisiana,F,25,29.0,171675
+Maine,F,25,29.0,39772
+Maryland,F,25,29.0,207917
+Massachusetts,F,25,29.0,251284
+Michigan,F,25,29.0,338763
+Minnesota,F,25,29.0,182988
+Mississippi,F,25,29.0,104499
+Missouri,F,25,29.0,210856
+Montana,F,25,29.0,34248
+Nebraska,F,25,29.0,61847
+Nevada,F,25,29.0,111914
+New Hampshire,F,25,29.0,40849
+New Jersey,F,25,29.0,284720
+New Mexico,F,25,29.0,69943
+New York,F,25,29.0,741095
+North Carolina,F,25,29.0,361963
+North Dakota,F,25,29.0,27913
+Ohio,F,25,29.0,398799
+Oklahoma,F,25,29.0,137889
+Oregon,F,25,29.0,148247
+Pennsylvania,F,25,29.0,425496
+Rhode Island,F,25,29.0,37200
+South Carolina,F,25,29.0,178590
+South Dakota,F,25,29.0,27742
+Tennessee,F,25,29.0,246210
+Texas,F,25,29.0,1055720
+Utah,F,25,29.0,120254
+Vermont,F,25,29.0,18183
+Virginia,F,25,29.0,296362
+Washington,F,25,29.0,282248
+West Virginia,F,25,29.0,55241
+Wisconsin,F,25,29.0,181015
+Wyoming,F,25,29.0,18657
+Alabama,M,30,34.0,148045
+Alaska,M,30,34.0,29998
+Arizona,M,30,34.0,242241
+Arkansas,M,30,34.0,95103
+California,M,30,34.0,1503731
+Colorado,M,30,34.0,230112
+Connecticut,M,30,34.0,111857
+Delaware,M,30,34.0,30979
+District of Columbia,M,30,34.0,38517
+Florida,M,30,34.0,684545
+Georgia,M,30,34.0,346660
+Hawaii,M,30,34.0,50897
+Idaho,M,30,34.0,56775
+Illinois,M,30,34.0,437447
+Indiana,M,30,34.0,209763
+Iowa,M,30,34.0,98733
+Kansas,M,30,34.0,95551
+Kentucky,M,30,34.0,138875
+Louisiana,M,30,34.0,161228
+Maine,M,30,34.0,39973
+Maryland,M,30,34.0,205130
+Massachusetts,M,30,34.0,241501
+Michigan,M,30,34.0,304543
+Minnesota,M,30,34.0,195773
+Mississippi,M,30,34.0,90429
+Missouri,M,30,34.0,198463
+Montana,M,30,34.0,33935
+Nebraska,M,30,34.0,65337
+Nevada,M,30,34.0,111732
+New Hampshire,M,30,34.0,42401
+New Jersey,M,30,34.0,289627
+New Mexico,M,30,34.0,71014
+New York,M,30,34.0,696990
+North Carolina,M,30,34.0,326859
+North Dakota,M,30,34.0,29183
+Ohio,M,30,34.0,370754
+Oklahoma,M,30,34.0,132859
+Oregon,M,30,34.0,148604
+Pennsylvania,M,30,34.0,421425
+Rhode Island,M,30,34.0,35481
+South Carolina,M,30,34.0,156808
+South Dakota,M,30,34.0,29983
+Tennessee,M,30,34.0,216956
+Texas,M,30,34.0,1054383
+Utah,M,30,34.0,109991
+Vermont,M,30,34.0,18471
+Virginia,M,30,34.0,295342
+Washington,M,30,34.0,289758
+West Virginia,M,30,34.0,52285
+Wisconsin,M,30,34.0,184584
+Wyoming,M,30,34.0,20240
+Alabama,F,30,34.0,155481
+Alaska,F,30,34.0,27195
+Arizona,F,30,34.0,225624
+Arkansas,F,30,34.0,94988
+California,F,30,34.0,1414252
+Colorado,F,30,34.0,210403
+Connecticut,F,30,34.0,110610
+Delaware,F,30,34.0,31104
+District of Columbia,F,30,34.0,42474
+Florida,F,30,34.0,667233
+Georgia,F,30,34.0,358841
+Hawaii,F,30,34.0,48132
+Idaho,F,30,34.0,55431
+Illinois,F,30,34.0,428554
+Indiana,F,30,34.0,208816
+Iowa,F,30,34.0,94696
+Kansas,F,30,34.0,92298
+Kentucky,F,30,34.0,135906
+Louisiana,F,30,34.0,162135
+Maine,F,30,34.0,39726
+Maryland,F,30,34.0,211048
+Massachusetts,F,30,34.0,243552
+Michigan,F,30,34.0,297654
+Minnesota,F,30,34.0,188618
+Mississippi,F,30,34.0,94466
+Missouri,F,30,34.0,198474
+Montana,F,30,34.0,32408
+Nebraska,F,30,34.0,61911
+Nevada,F,30,34.0,106176
+New Hampshire,F,30,34.0,40830
+New Jersey,F,30,34.0,283159
+New Mexico,F,30,34.0,67134
+New York,F,30,34.0,696226
+North Carolina,F,30,34.0,337727
+North Dakota,F,30,34.0,24464
+Ohio,F,30,34.0,367640
+Oklahoma,F,30,34.0,129510
+Oregon,F,30,34.0,145137
+Pennsylvania,F,30,34.0,408933
+Rhode Island,F,30,34.0,34381
+South Carolina,F,30,34.0,162631
+South Dakota,F,30,34.0,27358
+Tennessee,F,30,34.0,221647
+Texas,F,30,34.0,1022138
+Utah,F,30,34.0,107686
+Vermont,F,30,34.0,18087
+Virginia,F,30,34.0,290778
+Washington,F,30,34.0,273995
+West Virginia,F,30,34.0,49463
+Wisconsin,F,30,34.0,178358
+Wyoming,F,30,34.0,18659
+Alabama,M,35,39.0,147667
+Alaska,M,35,39.0,26943
+Arizona,M,35,39.0,233759
+Arkansas,M,35,39.0,95770
+California,M,35,39.0,1400228
+Colorado,M,35,39.0,213837
+Connecticut,M,35,39.0,107235
+Delaware,M,35,39.0,29056
+District of Columbia,M,35,39.0,30585
+Florida,M,35,39.0,657492
+Georgia,M,35,39.0,340919
+Hawaii,M,35,39.0,49065
+Idaho,M,35,39.0,58245
+Illinois,M,35,39.0,427485
+Indiana,M,35,39.0,212379
+Iowa,M,35,39.0,103032
+Kansas,M,35,39.0,96215
+Kentucky,M,35,39.0,141076
+Louisiana,M,35,39.0,154861
+Maine,M,35,39.0,38452
+Maryland,M,35,39.0,199196
+Massachusetts,M,35,39.0,217756
+Michigan,M,35,39.0,298593
+Minnesota,M,35,39.0,195069
+Mississippi,M,35,39.0,92716
+Missouri,M,35,39.0,196524
+Montana,M,35,39.0,34717
+Nebraska,M,35,39.0,65602
+Nevada,M,35,39.0,106572
+New Hampshire,M,35,39.0,40311
+New Jersey,M,35,39.0,289065
+New Mexico,M,35,39.0,67882
+New York,M,35,39.0,629727
+North Carolina,M,35,39.0,320982
+North Dakota,M,35,39.0,26543
+Ohio,M,35,39.0,360464
+Oklahoma,M,35,39.0,131328
+Oregon,M,35,39.0,148202
+Pennsylvania,M,35,39.0,391982
+Rhode Island,M,35,39.0,32742
+South Carolina,M,35,39.0,153852
+South Dakota,M,35,39.0,29069
+Tennessee,M,35,39.0,213648
+Texas,M,35,39.0,1022255
+Utah,M,35,39.0,117527
+Vermont,M,35,39.0,18048
+Virginia,M,35,39.0,288300
+Washington,M,35,39.0,273657
+West Virginia,M,35,39.0,54950
+Wisconsin,M,35,39.0,188315
+Wyoming,M,35,39.0,20295
+Alabama,F,35,39.0,156327
+Alaska,F,35,39.0,24729
+Arizona,F,35,39.0,225128
+Arkansas,F,35,39.0,95903
+California,F,35,39.0,1354752
+Colorado,F,35,39.0,201221
+Connecticut,F,35,39.0,110641
+Delaware,F,35,39.0,29794
+District of Columbia,F,35,39.0,31627
+Florida,F,35,39.0,661090
+Georgia,F,35,39.0,364309
+Hawaii,F,35,39.0,47731
+Idaho,F,35,39.0,57138
+Illinois,F,35,39.0,427036
+Indiana,F,35,39.0,213539
+Iowa,F,35,39.0,99072
+Kansas,F,35,39.0,93757
+Kentucky,F,35,39.0,141969
+Louisiana,F,35,39.0,158826
+Maine,F,35,39.0,39711
+Maryland,F,35,39.0,208206
+Massachusetts,F,35,39.0,222325
+Michigan,F,35,39.0,301097
+Minnesota,F,35,39.0,188621
+Mississippi,F,35,39.0,97153
+Missouri,F,35,39.0,197818
+Montana,F,35,39.0,32677
+Nebraska,F,35,39.0,62737
+Nevada,F,35,39.0,104266
+New Hampshire,F,35,39.0,39536
+New Jersey,F,35,39.0,292422
+New Mexico,F,35,39.0,65712
+New York,F,35,39.0,643336
+North Carolina,F,35,39.0,337622
+North Dakota,F,35,39.0,23352
+Ohio,F,35,39.0,363741
+Oklahoma,F,35,39.0,130082
+Oregon,F,35,39.0,146146
+Pennsylvania,F,35,39.0,390784
+Rhode Island,F,35,39.0,32663
+South Carolina,F,35,39.0,162222
+South Dakota,F,35,39.0,26938
+Tennessee,F,35,39.0,219235
+Texas,F,35,39.0,1008572
+Utah,F,35,39.0,113832
+Vermont,F,35,39.0,18556
+Virginia,F,35,39.0,290334
+Washington,F,35,39.0,262487
+West Virginia,F,35,39.0,54280
+Wisconsin,F,35,39.0,183482
+Wyoming,F,35,39.0,18863
+Alabama,M,40,44.0,139271
+Alaska,M,40,44.0,22482
+Arizona,M,40,44.0,211714
+Arkansas,M,40,44.0,87576
+California,M,40,44.0,1252659
+Colorado,M,40,44.0,187414
+Connecticut,M,40,44.0,100370
+Delaware,M,40,44.0,25417
+District of Columbia,M,40,44.0,21565
+Florida,M,40,44.0,616291
+Georgia,M,40,44.0,321019
+Hawaii,M,40,44.0,42192
+Idaho,M,40,44.0,53103
+Illinois,M,40,44.0,391887
+Indiana,M,40,44.0,197881
+Iowa,M,40,44.0,90364
+Kansas,M,40,44.0,84118
+Kentucky,M,40,44.0,134112
+Louisiana,M,40,44.0,133045
+Maine,M,40,44.0,36635
+Maryland,M,40,44.0,178218
+Massachusetts,M,40,44.0,195798
+Michigan,M,40,44.0,279073
+Minnesota,M,40,44.0,165719
+Mississippi,M,40,44.0,84613
+Missouri,M,40,44.0,173822
+Montana,M,40,44.0,30080
+Nebraska,M,40,44.0,56347
+Nevada,M,40,44.0,96933
+New Hampshire,M,40,44.0,37155
+New Jersey,M,40,44.0,276288
+New Mexico,M,40,44.0,58371
+New York,M,40,44.0,568660
+North Carolina,M,40,44.0,310152
+North Dakota,M,40,44.0,21473
+Ohio,M,40,44.0,331082
+Oklahoma,M,40,44.0,114994
+Oregon,M,40,44.0,134395
+Pennsylvania,M,40,44.0,356053
+Rhode Island,M,40,44.0,29001
+South Carolina,M,40,44.0,143322
+South Dakota,M,40,44.0,24679
+Tennessee,M,40,44.0,200452
+Texas,M,40,44.0,924057
+Utah,M,40,44.0,103646
+Vermont,M,40,44.0,16870
+Virginia,M,40,44.0,261041
+Washington,M,40,44.0,236117
+West Virginia,M,40,44.0,54013
+Wisconsin,M,40,44.0,168401
+Wyoming,M,40,44.0,17470
+Alabama,F,40,44.0,149037
+Alaska,F,40,44.0,20496
+Arizona,F,40,44.0,209830
+Arkansas,F,40,44.0,89269
+California,F,40,44.0,1248032
+Colorado,F,40,44.0,177607
+Connecticut,F,40,44.0,105090
+Delaware,F,40,44.0,27201
+District of Columbia,F,40,44.0,21897
+Florida,F,40,44.0,633891
+Georgia,F,40,44.0,346355
+Hawaii,F,40,44.0,41522
+Idaho,F,40,44.0,51543
+Illinois,F,40,44.0,393317
+Indiana,F,40,44.0,198403
+Iowa,F,40,44.0,87467
+Kansas,F,40,44.0,82232
+Kentucky,F,40,44.0,134792
+Louisiana,F,40,44.0,136794
+Maine,F,40,44.0,37585
+Maryland,F,40,44.0,188181
+Massachusetts,F,40,44.0,204773
+Michigan,F,40,44.0,284426
+Minnesota,F,40,44.0,160856
+Mississippi,F,40,44.0,90516
+Missouri,F,40,44.0,176375
+Montana,F,40,44.0,28922
+Nebraska,F,40,44.0,54625
+Nevada,F,40,44.0,95382
+New Hampshire,F,40,44.0,37672
+New Jersey,F,40,44.0,281525
+New Mexico,F,40,44.0,58819
+New York,F,40,44.0,590141
+North Carolina,F,40,44.0,327149
+North Dakota,F,40,44.0,19034
+Ohio,F,40,44.0,335905
+Oklahoma,F,40,44.0,113984
+Oregon,F,40,44.0,131024
+Pennsylvania,F,40,44.0,359726
+Rhode Island,F,40,44.0,29780
+South Carolina,F,40,44.0,152001
+South Dakota,F,40,44.0,23223
+Tennessee,F,40,44.0,206932
+Texas,F,40,44.0,926888
+Utah,F,40,44.0,99609
+Vermont,F,40,44.0,17127
+Virginia,F,40,44.0,265208
+Washington,F,40,44.0,230608
+West Virginia,F,40,44.0,53517
+Wisconsin,F,40,44.0,164518
+Wyoming,F,40,44.0,16085
+Alabama,M,45,49.0,151761
+Alaska,M,45,49.0,22764
+Arizona,M,45,49.0,215346
+Arkansas,M,45,49.0,90727
+California,M,45,49.0,1278946
+Colorado,M,45,49.0,187909
+Connecticut,M,45,49.0,113742
+Delaware,M,45,49.0,28213
+District of Columbia,M,45,49.0,19559
+Florida,M,45,49.0,666092
+Georgia,M,45,49.0,348369
+Hawaii,M,45,49.0,43118
+Idaho,M,45,49.0,51275
+Illinois,M,45,49.0,404889
+Indiana,M,45,49.0,209454
+Iowa,M,45,49.0,92073
+Kansas,M,45,49.0,83762
+Kentucky,M,45,49.0,142150
+Louisiana,M,45,49.0,134648
+Maine,M,45,49.0,42055
+Maryland,M,45,49.0,191395
+Massachusetts,M,45,49.0,215061
+Michigan,M,45,49.0,311311
+Minnesota,M,45,49.0,170063
+Mississippi,M,45,49.0,88806
+Missouri,M,45,49.0,182757
+Montana,M,45,49.0,29794
+Nebraska,M,45,49.0,55603
+Nevada,M,45,49.0,101959
+New Hampshire,M,45,49.0,44547
+New Jersey,M,45,49.0,295037
+New Mexico,M,45,49.0,58819
+New York,M,45,49.0,604283
+North Carolina,M,45,49.0,340439
+North Dakota,M,45,49.0,20341
+Ohio,M,45,49.0,362438
+Oklahoma,M,45,49.0,116160
+Oregon,M,45,49.0,133433
+Pennsylvania,M,45,49.0,395449
+Rhode Island,M,45,49.0,32082
+South Carolina,M,45,49.0,155142
+South Dakota,M,45,49.0,24072
+Tennessee,M,45,49.0,217599
+Texas,M,45,49.0,916482
+Utah,M,45,49.0,87541
+Vermont,M,45,49.0,19083
+Virginia,M,45,49.0,275013
+Washington,M,45,49.0,239658
+West Virginia,M,45,49.0,58577
+Wisconsin,M,45,49.0,177384
+Wyoming,M,45,49.0,16815
+Alabama,F,45,49.0,161205
+Alaska,F,45,49.0,20794
+Arizona,F,45,49.0,216819
+Arkansas,F,45,49.0,93445
+California,F,45,49.0,1289137
+Colorado,F,45,49.0,179672
+Connecticut,F,45,49.0,121234
+Delaware,F,45,49.0,30219
+District of Columbia,F,45,49.0,19228
+Florida,F,45,49.0,685763
+Georgia,F,45,49.0,370050
+Hawaii,F,45,49.0,42387
+Idaho,F,45,49.0,50397
+Illinois,F,45,49.0,413004
+Indiana,F,45,49.0,209632
+Iowa,F,45,49.0,90194
+Kansas,F,45,49.0,83227
+Kentucky,F,45,49.0,143482
+Louisiana,F,45,49.0,140798
+Maine,F,45,49.0,43655
+Maryland,F,45,49.0,205946
+Massachusetts,F,45,49.0,228732
+Michigan,F,45,49.0,318601
+Minnesota,F,45,49.0,166859
+Mississippi,F,45,49.0,95527
+Missouri,F,45,49.0,187182
+Montana,F,45,49.0,29092
+Nebraska,F,45,49.0,54087
+Nevada,F,45,49.0,99666
+New Hampshire,F,45,49.0,45321
+New Jersey,F,45,49.0,307303
+New Mexico,F,45,49.0,60464
+New York,F,45,49.0,635731
+North Carolina,F,45,49.0,356855
+North Dakota,F,45,49.0,18871
+Ohio,F,45,49.0,370088
+Oklahoma,F,45,49.0,116158
+Oregon,F,45,49.0,130875
+Pennsylvania,F,45,49.0,402144
+Rhode Island,F,45,49.0,34061
+South Carolina,F,45,49.0,164980
+South Dakota,F,45,49.0,23169
+Tennessee,F,45,49.0,225211
+Texas,F,45,49.0,930885
+Utah,F,45,49.0,85127
+Vermont,F,45,49.0,19449
+Virginia,F,45,49.0,283068
+Washington,F,45,49.0,234750
+West Virginia,F,45,49.0,57911
+Wisconsin,F,45,49.0,174960
+Wyoming,F,45,49.0,15725
+Alabama,M,50,54.0,152594
+Alaska,M,50,54.0,23231
+Arizona,M,50,54.0,206038
+Arkansas,M,50,54.0,90653
+California,M,50,54.0,1246725
+Colorado,M,50,54.0,171416
+Connecticut,M,50,54.0,125855
+Delaware,M,50,54.0,30528
+District of Columbia,M,50,54.0,18277
+Florida,M,50,54.0,680591
+Georgia,M,50,54.0,337137
+Hawaii,M,50,54.0,42248
+Idaho,M,50,54.0,49121
+Illinois,M,50,54.0,405372
+Indiana,M,50,54.0,208541
+Iowa,M,50,54.0,94763
+Kansas,M,50,54.0,84398
+Kentucky,M,50,54.0,143163
+Louisiana,M,50,54.0,139465
+Maine,M,50,54.0,46117
+Maryland,M,50,54.0,202160
+Massachusetts,M,50,54.0,231746
+Michigan,M,50,54.0,325799
+Minnesota,M,50,54.0,177532
+Mississippi,M,50,54.0,88885
+Missouri,M,50,54.0,187627
+Montana,M,50,54.0,30602
+Nebraska,M,50,54.0,55548
+Nevada,M,50,54.0,98284
+New Hampshire,M,50,54.0,49602
+New Jersey,M,50,54.0,307752
+New Mexico,M,50,54.0,59230
+New York,M,50,54.0,636980
+North Carolina,M,50,54.0,331494
+North Dakota,M,50,54.0,20796
+Ohio,M,50,54.0,371161
+Oklahoma,M,50,54.0,112869
+Oregon,M,50,54.0,124054
+Pennsylvania,M,50,54.0,420607
+Rhode Island,M,50,54.0,35454
+South Carolina,M,50,54.0,156587
+South Dakota,M,50,54.0,25248
+Tennessee,M,50,54.0,214805
+Texas,M,50,54.0,846139
+Utah,M,50,54.0,75353
+Vermont,M,50,54.0,20608
+Virginia,M,50,54.0,277039
+Washington,M,50,54.0,229481
+West Virginia,M,50,54.0,58902
+Wisconsin,M,50,54.0,192156
+Wyoming,M,50,54.0,16474
+Alabama,F,50,54.0,161898
+Alaska,F,50,54.0,21328
+Arizona,F,50,54.0,212587
+Arkansas,F,50,54.0,93842
+California,F,50,54.0,1257166
+Colorado,F,50,54.0,171174
+Connecticut,F,50,54.0,134120
+Delaware,F,50,54.0,33531
+District of Columbia,F,50,54.0,18389
+Florida,F,50,54.0,713926
+Georgia,F,50,54.0,355882
+Hawaii,F,50,54.0,42871
+Idaho,F,50,54.0,49132
+Illinois,F,50,54.0,416585
+Indiana,F,50,54.0,212197
+Iowa,F,50,54.0,94301
+Kansas,F,50,54.0,84550
+Kentucky,F,50,54.0,148019
+Louisiana,F,50,54.0,148395
+Maine,F,50,54.0,48346
+Maryland,F,50,54.0,219426
+Massachusetts,F,50,54.0,245992
+Michigan,F,50,54.0,334349
+Minnesota,F,50,54.0,177037
+Mississippi,F,50,54.0,95575
+Missouri,F,50,54.0,194122
+Montana,F,50,54.0,30790
+Nebraska,F,50,54.0,54733
+Nevada,F,50,54.0,95430
+New Hampshire,F,50,54.0,50772
+New Jersey,F,50,54.0,325782
+New Mexico,F,50,54.0,62352
+New York,F,50,54.0,678135
+North Carolina,F,50,54.0,349052
+North Dakota,F,50,54.0,19997
+Ohio,F,50,54.0,381190
+Oklahoma,F,50,54.0,115123
+Oregon,F,50,54.0,124312
+Pennsylvania,F,50,54.0,434581
+Rhode Island,F,50,54.0,37773
+South Carolina,F,50,54.0,169749
+South Dakota,F,50,54.0,24592
+Tennessee,F,50,54.0,225180
+Texas,F,50,54.0,859451
+Utah,F,50,54.0,74152
+Vermont,F,50,54.0,21579
+Virginia,F,50,54.0,290264
+Washington,F,50,54.0,229642
+West Virginia,F,50,54.0,59063
+Wisconsin,F,50,54.0,193057
+Wyoming,F,50,54.0,15866
+Alabama,M,55,59.0,161560
+Alaska,M,55,59.0,25514
+Arizona,M,55,59.0,213916
+Arkansas,M,55,59.0,96542
+California,M,55,59.0,1236166
+Colorado,M,55,59.0,179841
+Connecticut,M,55,59.0,130310
+Delaware,M,55,59.0,32533
+District of Columbia,M,55,59.0,17999
+Florida,M,55,59.0,705738
+Georgia,M,55,59.0,327533
+Hawaii,M,55,59.0,45061
+Idaho,M,55,59.0,53309
+Illinois,M,55,59.0,423511
+Indiana,M,55,59.0,220348
+Iowa,M,55,59.0,105699
+Kansas,M,55,59.0,93571
+Kentucky,M,55,59.0,149263
+Louisiana,M,55,59.0,149933
+Maine,M,55,59.0,51974
+Maryland,M,55,59.0,206275
+Massachusetts,M,55,59.0,238679
+Michigan,M,55,59.0,350405
+Minnesota,M,55,59.0,196197
+Mississippi,M,55,59.0,94724
+Missouri,M,55,59.0,209798
+Montana,M,55,59.0,36440
+Nebraska,M,55,59.0,62243
+Nevada,M,55,59.0,97211
+New Hampshire,M,55,59.0,54345
+New Jersey,M,55,59.0,314715
+New Mexico,M,55,59.0,67201
+New York,M,55,59.0,654292
+North Carolina,M,55,59.0,332859
+North Dakota,M,55,59.0,24494
+Ohio,M,55,59.0,399353
+Oklahoma,M,55,59.0,124388
+Oregon,M,55,59.0,130895
+Pennsylvania,M,55,59.0,448564
+Rhode Island,M,55,59.0,36852
+South Carolina,M,55,59.0,163480
+South Dakota,M,55,59.0,29365
+Tennessee,M,55,59.0,219123
+Texas,M,55,59.0,839230
+Utah,M,55,59.0,76341
+Vermont,M,55,59.0,23640
+Virginia,M,55,59.0,283026
+Washington,M,55,59.0,242365
+West Virginia,M,55,59.0,62149
+Wisconsin,M,55,59.0,210643
+Wyoming,M,55,59.0,19714
+Alabama,F,55,59.0,175251
+Alaska,F,55,59.0,23732
+Arizona,F,55,59.0,228169
+Arkansas,F,55,59.0,101621
+California,F,55,59.0,1282644
+Colorado,F,55,59.0,187435
+Connecticut,F,55,59.0,139157
+Delaware,F,55,59.0,36260
+District of Columbia,F,55,59.0,18677
+Florida,F,55,59.0,764842
+Georgia,F,55,59.0,354814
+Hawaii,F,55,59.0,45746
+Idaho,F,55,59.0,55299
+Illinois,F,55,59.0,444087
+Indiana,F,55,59.0,230574
+Iowa,F,55,59.0,108208
+Kansas,F,55,59.0,98118
+Kentucky,F,55,59.0,158618
+Louisiana,F,55,59.0,162400
+Maine,F,55,59.0,55178
+Maryland,F,55,59.0,226038
+Massachusetts,F,55,59.0,253795
+Michigan,F,55,59.0,365873
+Minnesota,F,55,59.0,198725
+Mississippi,F,55,59.0,103974
+Missouri,F,55,59.0,220488
+Montana,F,55,59.0,38083
+Nebraska,F,55,59.0,63304
+Nevada,F,55,59.0,97070
+New Hampshire,F,55,59.0,56576
+New Jersey,F,55,59.0,332058
+New Mexico,F,55,59.0,72063
+New York,F,55,59.0,704401
+North Carolina,F,55,59.0,363111
+North Dakota,F,55,59.0,23981
+Ohio,F,55,59.0,422049
+Oklahoma,F,55,59.0,130638
+Oregon,F,55,59.0,139134
+Pennsylvania,F,55,59.0,473231
+Rhode Island,F,55,59.0,40122
+South Carolina,F,55,59.0,181275
+South Dakota,F,55,59.0,29946
+Tennessee,F,55,59.0,237414
+Texas,F,55,59.0,873671
+Utah,F,55,59.0,79021
+Vermont,F,55,59.0,25057
+Virginia,F,55,59.0,300016
+Washington,F,55,59.0,249311
+West Virginia,F,55,59.0,65609
+Wisconsin,F,55,59.0,215114
+Wyoming,F,55,59.0,19680
+Alabama,M,60,64.0,149995
+Alaska,M,60,64.0,23113
+Arizona,M,60,64.0,199268
+Arkansas,M,60,64.0,88463
+California,M,60,64.0,1088287
+Colorado,M,60,64.0,166684
+Connecticut,M,60,64.0,116986
+Delaware,M,60,64.0,31068
+District of Columbia,M,60,64.0,15465
+Florida,M,60,64.0,645062
+Georgia,M,60,64.0,283259
+Hawaii,M,60,64.0,43651
+Idaho,M,60,64.0,51470
+Illinois,M,60,64.0,383574
+Indiana,M,60,64.0,204685
+Iowa,M,60,64.0,100617
+Kansas,M,60,64.0,88489
+Kentucky,M,60,64.0,138345
+Louisiana,M,60,64.0,139573
+Maine,M,60,64.0,50413
+Maryland,M,60,64.0,179175
+Massachusetts,M,60,64.0,213013
+Michigan,M,60,64.0,330902
+Minnesota,M,60,64.0,177250
+Mississippi,M,60,64.0,88383
+Missouri,M,60,64.0,191329
+Montana,M,60,64.0,37260
+Nebraska,M,60,64.0,57747
+Nevada,M,60,64.0,88508
+New Hampshire,M,60,64.0,49890
+New Jersey,M,60,64.0,273515
+New Mexico,M,60,64.0,63771
+New York,M,60,64.0,588558
+North Carolina,M,60,64.0,303496
+North Dakota,M,60,64.0,23375
+Ohio,M,60,64.0,380035
+Oklahoma,M,60,64.0,114260
+Oregon,M,60,64.0,130881
+Pennsylvania,M,60,64.0,428520
+Rhode Island,M,60,64.0,34321
+South Carolina,M,60,64.0,154516
+South Dakota,M,60,64.0,28913
+Tennessee,M,60,64.0,203083
+Texas,M,60,64.0,730794
+Utah,M,60,64.0,70946
+Vermont,M,60,64.0,23350
+Virginia,M,60,64.0,249559
+Washington,M,60,64.0,227038
+West Virginia,M,60,64.0,63487
+Wisconsin,M,60,64.0,194865
+Wyoming,M,60,64.0,20329
+Alabama,F,60,64.0,168373
+Alaska,F,60,64.0,22243
+Arizona,F,60,64.0,224924
+Arkansas,F,60,64.0,97841
+California,F,60,64.0,1174129
+Colorado,F,60,64.0,176640
+Connecticut,F,60,64.0,125352
+Delaware,F,60,64.0,35778
+District of Columbia,F,60,64.0,18161
+Florida,F,60,64.0,738959
+Georgia,F,60,64.0,320076
+Hawaii,F,60,64.0,46269
+Idaho,F,60,64.0,54772
+Illinois,F,60,64.0,414015
+Indiana,F,60,64.0,217679
+Iowa,F,60,64.0,103013
+Kansas,F,60,64.0,93247
+Kentucky,F,60,64.0,151119
+Louisiana,F,60,64.0,154360
+Maine,F,60,64.0,54416
+Maryland,F,60,64.0,201246
+Massachusetts,F,60,64.0,233680
+Michigan,F,60,64.0,355624
+Minnesota,F,60,64.0,182273
+Mississippi,F,60,64.0,98812
+Missouri,F,60,64.0,207926
+Montana,F,60,64.0,39604
+Nebraska,F,60,64.0,59754
+Nevada,F,60,64.0,93772
+New Hampshire,F,60,64.0,51704
+New Jersey,F,60,64.0,299043
+New Mexico,F,60,64.0,71112
+New York,F,60,64.0,647370
+North Carolina,F,60,64.0,343517
+North Dakota,F,60,64.0,22973
+Ohio,F,60,64.0,410111
+Oklahoma,F,60,64.0,124158
+Oregon,F,60,64.0,143575
+Pennsylvania,F,60,64.0,459490
+Rhode Island,F,60,64.0,37863
+South Carolina,F,60,64.0,179028
+South Dakota,F,60,64.0,29037
+Tennessee,F,60,64.0,226554
+Texas,F,60,64.0,790595
+Utah,F,60,64.0,73852
+Vermont,F,60,64.0,24442
+Virginia,F,60,64.0,274271
+Washington,F,60,64.0,242157
+West Virginia,F,60,64.0,67125
+Wisconsin,F,60,64.0,199955
+Wyoming,F,60,64.0,20126
+Alabama,M,65,69.0,125476
+Alaska,M,65,69.0,18106
+Arizona,M,65,69.0,181253
+Arkansas,M,65,69.0,76090
+California,M,65,69.0,869380
+Colorado,M,65,69.0,138241
+Connecticut,M,65,69.0,89542
+Delaware,M,65,69.0,27350
+District of Columbia,M,65,69.0,12184
+Florida,M,65,69.0,585823
+Georgia,M,65,69.0,228680
+Hawaii,M,65,69.0,39932
+Idaho,M,65,69.0,46085
+Illinois,M,65,69.0,305975
+Indiana,M,65,69.0,166330
+Iowa,M,65,69.0,84441
+Kansas,M,65,69.0,72688
+Kentucky,M,65,69.0,115737
+Louisiana,M,65,69.0,113490
+Maine,M,65,69.0,43871
+Maryland,M,65,69.0,140655
+Massachusetts,M,65,69.0,171603
+Michigan,M,65,69.0,272209
+Minnesota,M,65,69.0,143306
+Mississippi,M,65,69.0,73135
+Missouri,M,65,69.0,156141
+Montana,M,65,69.0,34234
+Nebraska,M,65,69.0,47903
+Nevada,M,65,69.0,76494
+New Hampshire,M,65,69.0,40389
+New Jersey,M,65,69.0,210670
+New Mexico,M,65,69.0,57135
+New York,M,65,69.0,473094
+North Carolina,M,65,69.0,257565
+North Dakota,M,65,69.0,18996
+Ohio,M,65,69.0,310069
+Oklahoma,M,65,69.0,94101
+Oregon,M,65,69.0,120409
+Pennsylvania,M,65,69.0,350805
+Rhode Island,M,65,69.0,27378
+South Carolina,M,65,69.0,138668
+South Dakota,M,65,69.0,25141
+Tennessee,M,65,69.0,171137
+Texas,M,65,69.0,575843
+Utah,M,65,69.0,57532
+Vermont,M,65,69.0,19994
+Virginia,M,65,69.0,202442
+Washington,M,65,69.0,191594
+West Virginia,M,65,69.0,57393
+Wisconsin,M,65,69.0,161017
+Wyoming,M,65,69.0,17087
+Alabama,F,65,69.0,145323
+Alaska,F,65,69.0,16972
+Arizona,F,65,69.0,208476
+Arkansas,F,65,69.0,86471
+California,F,65,69.0,983722
+Colorado,F,65,69.0,149836
+Connecticut,F,65,69.0,100778
+Delaware,F,65,69.0,32164
+District of Columbia,F,65,69.0,15800
+Florida,F,65,69.0,686057
+Georgia,F,65,69.0,272296
+Hawaii,F,65,69.0,42560
+Idaho,F,65,69.0,48460
+Illinois,F,65,69.0,343599
+Indiana,F,65,69.0,184195
+Iowa,F,65,69.0,88252
+Kansas,F,65,69.0,77574
+Kentucky,F,65,69.0,129322
+Louisiana,F,65,69.0,129395
+Maine,F,65,69.0,47856
+Maryland,F,65,69.0,166623
+Massachusetts,F,65,69.0,195647
+Michigan,F,65,69.0,299747
+Minnesota,F,65,69.0,151176
+Mississippi,F,65,69.0,84276
+Missouri,F,65,69.0,176368
+Montana,F,65,69.0,34488
+Nebraska,F,65,69.0,51409
+Nevada,F,65,69.0,83933
+New Hampshire,F,65,69.0,42490
+New Jersey,F,65,69.0,241246
+New Mexico,F,65,69.0,64538
+New York,F,65,69.0,543969
+North Carolina,F,65,69.0,302458
+North Dakota,F,65,69.0,18281
+Ohio,F,65,69.0,344938
+Oklahoma,F,65,69.0,105326
+Oregon,F,65,69.0,132859
+Pennsylvania,F,65,69.0,387093
+Rhode Island,F,65,69.0,30347
+South Carolina,F,65,69.0,163611
+South Dakota,F,65,69.0,25019
+Tennessee,F,65,69.0,195783
+Texas,F,65,69.0,650612
+Utah,F,65,69.0,61971
+Vermont,F,65,69.0,21342
+Virginia,F,65,69.0,230360
+Washington,F,65,69.0,210095
+West Virginia,F,65,69.0,62307
+Wisconsin,F,65,69.0,168164
+Wyoming,F,65,69.0,16496
+Alabama,M,70,74.0,99022
+Alaska,M,70,74.0,12088
+Arizona,M,70,74.0,158335
+Arkansas,M,70,74.0,61979
+California,M,70,74.0,659696
+Colorado,M,70,74.0,101535
+Connecticut,M,70,74.0,70272
+Delaware,M,70,74.0,22480
+District of Columbia,M,70,74.0,9000
+Florida,M,70,74.0,521718
+Georgia,M,70,74.0,179079
+Hawaii,M,70,74.0,31897
+Idaho,M,70,74.0,36169
+Illinois,M,70,74.0,225913
+Indiana,M,70,74.0,122551
+Iowa,M,70,74.0,60680
+Kansas,M,70,74.0,53267
+Kentucky,M,70,74.0,88065
+Louisiana,M,70,74.0,84765
+Maine,M,70,74.0,34515
+Maryland,M,70,74.0,107251
+Massachusetts,M,70,74.0,130768
+Michigan,M,70,74.0,202247
+Minnesota,M,70,74.0,102504
+Mississippi,M,70,74.0,56456
+Missouri,M,70,74.0,120283
+Montana,M,70,74.0,25530
+Nebraska,M,70,74.0,34724
+Nevada,M,70,74.0,63916
+New Hampshire,M,70,74.0,30660
+New Jersey,M,70,74.0,161779
+New Mexico,M,70,74.0,45317
+New York,M,70,74.0,356719
+North Carolina,M,70,74.0,206138
+North Dakota,M,70,74.0,13185
+Ohio,M,70,74.0,228317
+Oklahoma,M,70,74.0,73654
+Oregon,M,70,74.0,92538
+Pennsylvania,M,70,74.0,264616
+Rhode Island,M,70,74.0,20745
+South Carolina,M,70,74.0,115179
+South Dakota,M,70,74.0,17291
+Tennessee,M,70,74.0,136761
+Texas,M,70,74.0,435873
+Utah,M,70,74.0,42866
+Vermont,M,70,74.0,15156
+Virginia,M,70,74.0,159495
+Washington,M,70,74.0,144907
+West Virginia,M,70,74.0,44678
+Wisconsin,M,70,74.0,116405
+Wyoming,M,70,74.0,12288
+Alabama,F,70,74.0,117900
+Alaska,F,70,74.0,11389
+Arizona,F,70,74.0,178098
+Arkansas,F,70,74.0,71471
+California,F,70,74.0,772616
+Colorado,F,70,74.0,111186
+Connecticut,F,70,74.0,82978
+Delaware,F,70,74.0,26200
+District of Columbia,F,70,74.0,12120
+Florida,F,70,74.0,604304
+Georgia,F,70,74.0,215364
+Hawaii,F,70,74.0,34544
+Idaho,F,70,74.0,37527
+Illinois,F,70,74.0,266766
+Indiana,F,70,74.0,142505
+Iowa,F,70,74.0,67500
+Kansas,F,70,74.0,59328
+Kentucky,F,70,74.0,102081
+Louisiana,F,70,74.0,100296
+Maine,F,70,74.0,37125
+Maryland,F,70,74.0,130923
+Massachusetts,F,70,74.0,155811
+Michigan,F,70,74.0,230499
+Minnesota,F,70,74.0,113194
+Mississippi,F,70,74.0,66718
+Missouri,F,70,74.0,139785
+Montana,F,70,74.0,25331
+Nebraska,F,70,74.0,38491
+Nevada,F,70,74.0,68909
+New Hampshire,F,70,74.0,33394
+New Jersey,F,70,74.0,196403
+New Mexico,F,70,74.0,50894
+New York,F,70,74.0,435338
+North Carolina,F,70,74.0,244297
+North Dakota,F,70,74.0,13760
+Ohio,F,70,74.0,267051
+Oklahoma,F,70,74.0,85565
+Oregon,F,70,74.0,102386
+Pennsylvania,F,70,74.0,308236
+Rhode Island,F,70,74.0,24125
+South Carolina,F,70,74.0,132373
+South Dakota,F,70,74.0,17599
+Tennessee,F,70,74.0,157921
+Texas,F,70,74.0,504201
+Utah,F,70,74.0,47502
+Vermont,F,70,74.0,16401
+Virginia,F,70,74.0,186741
+Washington,F,70,74.0,162212
+West Virginia,F,70,74.0,48459
+Wisconsin,F,70,74.0,126037
+Wyoming,F,70,74.0,12297
+Alabama,M,75,79.0,65915
+Alaska,M,75,79.0,6933
+Arizona,M,75,79.0,111815
+Arkansas,M,75,79.0,42782
+California,M,75,79.0,435135
+Colorado,M,75,79.0,61396
+Connecticut,M,75,79.0,47457
+Delaware,M,75,79.0,14868
+District of Columbia,M,75,79.0,5904
+Florida,M,75,79.0,382138
+Georgia,M,75,79.0,114236
+Hawaii,M,75,79.0,19670
+Idaho,M,75,79.0,24034
+Illinois,M,75,79.0,151858
+Indiana,M,75,79.0,82169
+Iowa,M,75,79.0,41828
+Kansas,M,75,79.0,35215
+Kentucky,M,75,79.0,57870
+Louisiana,M,75,79.0,55234
+Maine,M,75,79.0,21901
+Maryland,M,75,79.0,70911
+Massachusetts,M,75,79.0,84272
+Michigan,M,75,79.0,136443
+Minnesota,M,75,79.0,69997
+Mississippi,M,75,79.0,37067
+Missouri,M,75,79.0,83096
+Montana,M,75,79.0,16957
+Nebraska,M,75,79.0,23090
+Nevada,M,75,79.0,42417
+New Hampshire,M,75,79.0,19320
+New Jersey,M,75,79.0,109439
+New Mexico,M,75,79.0,29911
+New York,M,75,79.0,239660
+North Carolina,M,75,79.0,133208
+North Dakota,M,75,79.0,8816
+Ohio,M,75,79.0,153118
+Oklahoma,M,75,79.0,50372
+Oregon,M,75,79.0,59499
+Pennsylvania,M,75,79.0,179331
+Rhode Island,M,75,79.0,13476
+South Carolina,M,75,79.0,74029
+South Dakota,M,75,79.0,11072
+Tennessee,M,75,79.0,90233
+Texas,M,75,79.0,280605
+Utah,M,75,79.0,28644
+Vermont,M,75,79.0,9653
+Virginia,M,75,79.0,105163
+Washington,M,75,79.0,92248
+West Virginia,M,75,79.0,29370
+Wisconsin,M,75,79.0,77104
+Wyoming,M,75,79.0,7795
+Alabama,F,75,79.0,84943
+Alaska,F,75,79.0,6960
+Arizona,F,75,79.0,127679
+Arkansas,F,75,79.0,52452
+California,F,75,79.0,541583
+Colorado,F,75,79.0,72711
+Connecticut,F,75,79.0,59929
+Delaware,F,75,79.0,17937
+District of Columbia,F,75,79.0,8515
+Florida,F,75,79.0,451048
+Georgia,F,75,79.0,145504
+Hawaii,F,75,79.0,22725
+Idaho,F,75,79.0,26134
+Illinois,F,75,79.0,196563
+Indiana,F,75,79.0,103744
+Iowa,F,75,79.0,50859
+Kansas,F,75,79.0,43196
+Kentucky,F,75,79.0,73029
+Louisiana,F,75,79.0,71400
+Maine,F,75,79.0,25684
+Maryland,F,75,79.0,91939
+Massachusetts,F,75,79.0,109065
+Michigan,F,75,79.0,165659
+Minnesota,F,75,79.0,83157
+Mississippi,F,75,79.0,48341
+Missouri,F,75,79.0,102864
+Montana,F,75,79.0,17721
+Nebraska,F,75,79.0,28104
+Nevada,F,75,79.0,45795
+New Hampshire,F,75,79.0,22195
+New Jersey,F,75,79.0,144196
+New Mexico,F,75,79.0,34985
+New York,F,75,79.0,319911
+North Carolina,F,75,79.0,167463
+North Dakota,F,75,79.0,10146
+Ohio,F,75,79.0,196701
+Oklahoma,F,75,79.0,62563
+Oregon,F,75,79.0,68327
+Pennsylvania,F,75,79.0,228007
+Rhode Island,F,75,79.0,17265
+South Carolina,F,75,79.0,89245
+South Dakota,F,75,79.0,12594
+Tennessee,F,75,79.0,111102
+Texas,F,75,79.0,346711
+Utah,F,75,79.0,33383
+Vermont,F,75,79.0,11057
+Virginia,F,75,79.0,130030
+Washington,F,75,79.0,105844
+West Virginia,F,75,79.0,35003
+Wisconsin,F,75,79.0,92016
+Wyoming,F,75,79.0,8408
+Alabama,M,80,84.0,40077
+Alaska,M,80,84.0,3521
+Arizona,M,80,84.0,69990
+Arkansas,M,80,84.0,26186
+California,M,80,84.0,282868
+Colorado,M,80,84.0,37054
+Connecticut,M,80,84.0,29724
+Delaware,M,80,84.0,8878
+District of Columbia,M,80,84.0,3744
+Florida,M,80,84.0,248280
+Georgia,M,80,84.0,65074
+Hawaii,M,80,84.0,12079
+Idaho,M,80,84.0,14082
+Illinois,M,80,84.0,96790
+Indiana,M,80,84.0,50530
+Iowa,M,80,84.0,28237
+Kansas,M,80,84.0,23476
+Kentucky,M,80,84.0,34790
+Louisiana,M,80,84.0,33821
+Maine,M,80,84.0,13486
+Maryland,M,80,84.0,42980
+Massachusetts,M,80,84.0,54080
+Michigan,M,80,84.0,82311
+Minnesota,M,80,84.0,45181
+Mississippi,M,80,84.0,22657
+Missouri,M,80,84.0,51962
+Montana,M,80,84.0,10109
+Nebraska,M,80,84.0,15574
+Nevada,M,80,84.0,23990
+New Hampshire,M,80,84.0,11528
+New Jersey,M,80,84.0,69963
+New Mexico,M,80,84.0,18793
+New York,M,80,84.0,157447
+North Carolina,M,80,84.0,78846
+North Dakota,M,80,84.0,6167
+Ohio,M,80,84.0,97875
+Oklahoma,M,80,84.0,31906
+Oregon,M,80,84.0,34920
+Pennsylvania,M,80,84.0,115731
+Rhode Island,M,80,84.0,8515
+South Carolina,M,80,84.0,41347
+South Dakota,M,80,84.0,7370
+Tennessee,M,80,84.0,52154
+Texas,M,80,84.0,171925
+Utah,M,80,84.0,18399
+Vermont,M,80,84.0,5765
+Virginia,M,80,84.0,62744
+Washington,M,80,84.0,54441
+West Virginia,M,80,84.0,18258
+Wisconsin,M,80,84.0,50093
+Wyoming,M,80,84.0,4648
+Alabama,F,80,84.0,58373
+Alaska,F,80,84.0,4189
+Arizona,F,80,84.0,80329
+Arkansas,F,80,84.0,35379
+California,F,80,84.0,380440
+Colorado,F,80,84.0,47906
+Connecticut,F,80,84.0,42570
+Delaware,F,80,84.0,11372
+District of Columbia,F,80,84.0,5883
+Florida,F,80,84.0,307284
+Georgia,F,80,84.0,93543
+Hawaii,F,80,84.0,16516
+Idaho,F,80,84.0,16372
+Illinois,F,80,84.0,138823
+Indiana,F,80,84.0,72187
+Iowa,F,80,84.0,38942
+Kansas,F,80,84.0,31961
+Kentucky,F,80,84.0,49114
+Louisiana,F,80,84.0,48982
+Maine,F,80,84.0,18142
+Maryland,F,80,84.0,61451
+Massachusetts,F,80,84.0,78002
+Michigan,F,80,84.0,113503
+Minnesota,F,80,84.0,59603
+Mississippi,F,80,84.0,33484
+Missouri,F,80,84.0,71581
+Montana,F,80,84.0,11837
+Nebraska,F,80,84.0,21293
+Nevada,F,80,84.0,27365
+New Hampshire,F,80,84.0,15181
+New Jersey,F,80,84.0,102538
+New Mexico,F,80,84.0,23445
+New York,F,80,84.0,231077
+North Carolina,F,80,84.0,113541
+North Dakota,F,80,84.0,8490
+Ohio,F,80,84.0,140616
+Oklahoma,F,80,84.0,42870
+Oregon,F,80,84.0,43728
+Pennsylvania,F,80,84.0,167568
+Rhode Island,F,80,84.0,12551
+South Carolina,F,80,84.0,56488
+South Dakota,F,80,84.0,9777
+Tennessee,F,80,84.0,74544
+Texas,F,80,84.0,236051
+Utah,F,80,84.0,22405
+Vermont,F,80,84.0,7418
+Virginia,F,80,84.0,86534
+Washington,F,80,84.0,69508
+West Virginia,F,80,84.0,24510
+Wisconsin,F,80,84.0,66001
+Wyoming,F,80,84.0,5675
+Alabama,M,85,inf,30133
+Alaska,M,85,inf,2594
+Arizona,M,85,inf,58181
+Arkansas,M,85,inf,20974
+California,M,85,inf,275475
+Colorado,M,85,inf,32394
+Connecticut,M,85,inf,31163
+Delaware,M,85,inf,7319
+District of Columbia,M,85,inf,4006
+Florida,M,85,inf,227285
+Georgia,M,85,inf,49450
+Hawaii,M,85,inf,14660
+Idaho,M,85,inf,11506
+Illinois,M,85,inf,89943
+Indiana,M,85,inf,43970
+Iowa,M,85,inf,26766
+Kansas,M,85,inf,22983
+Kentucky,M,85,inf,27128
+Louisiana,M,85,inf,28027
+Maine,M,85,inf,11753
+Maryland,M,85,inf,40586
+Massachusetts,M,85,inf,53508
+Michigan,M,85,inf,74395
+Minnesota,M,85,inf,42936
+Mississippi,M,85,inf,17005
+Missouri,M,85,inf,45600
+Montana,M,85,inf,8662
+Nebraska,M,85,inf,15242
+Nevada,M,85,inf,17881
+New Hampshire,M,85,inf,10623
+New Jersey,M,85,inf,68193
+New Mexico,M,85,inf,15826
+New York,M,85,inf,155022
+North Carolina,M,85,inf,62740
+North Dakota,M,85,inf,6496
+Ohio,M,85,inf,87735
+Oklahoma,M,85,inf,26579
+Oregon,M,85,inf,31012
+Pennsylvania,M,85,inf,112455
+Rhode Island,M,85,inf,8937
+South Carolina,M,85,inf,30988
+South Dakota,M,85,inf,7195
+Tennessee,M,85,inf,40662
+Texas,M,85,inf,144933
+Utah,M,85,inf,15485
+Vermont,M,85,inf,5053
+Virginia,M,85,inf,53138
+Washington,M,85,inf,48424
+West Virginia,M,85,inf,13937
+Wisconsin,M,85,inf,44734
+Wyoming,M,85,inf,4001
+Alabama,F,85,inf,59732
+Alaska,F,85,inf,4259
+Arizona,F,85,inf,84094
+Arkansas,F,85,inf,38043
+California,F,85,inf,468110
+Colorado,F,85,inf,55970
+Connecticut,F,85,inf,60708
+Delaware,F,85,inf,12518
+District of Columbia,F,85,inf,8147
+Florida,F,85,inf,344134
+Georgia,F,85,inf,97183
+Hawaii,F,85,inf,26384
+Idaho,F,85,inf,17913
+Illinois,F,85,inf,176731
+Indiana,F,85,inf,86840
+Iowa,F,85,inf,52325
+Kansas,F,85,inf,42553
+Kentucky,F,85,inf,53490
+Louisiana,F,85,inf,53023
+Maine,F,85,inf,21666
+Maryland,F,85,inf,77817
+Massachusetts,F,85,inf,106344
+Michigan,F,85,inf,139591
+Minnesota,F,85,inf,78748
+Mississippi,F,85,inf,35336
+Missouri,F,85,inf,86284
+Montana,F,85,inf,14033
+Nebraska,F,85,inf,27836
+Nevada,F,85,inf,25481
+New Hampshire,F,85,inf,19865
+New Jersey,F,85,inf,134100
+New Mexico,F,85,inf,25345
+New York,F,85,inf,301297
+North Carolina,F,85,inf,123009
+North Dakota,F,85,inf,12300
+Ohio,F,85,inf,168602
+Oklahoma,F,85,inf,46617
+Oregon,F,85,inf,53013
+Pennsylvania,F,85,inf,221788
+Rhode Island,F,85,inf,18915
+South Carolina,F,85,inf,57987
+South Dakota,F,85,inf,13796
+Tennessee,F,85,inf,79400
+Texas,F,85,inf,255566
+Utah,F,85,inf,22291
+Vermont,F,85,inf,9368
+Virginia,F,85,inf,98754
+Washington,F,85,inf,84959
+West Virginia,F,85,inf,25963
+Wisconsin,F,85,inf,83902
+Wyoming,F,85,inf,6680
